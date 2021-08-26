@@ -1,0 +1,1 @@
+This is Asel's first git project!
